@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteExercise</string>
+    <string name="add">Add</string>
+    <string name="read">Read</string>
+    <string name="update">Update</string>
+    <string name="clear">Clear</string>
+    <string name="get_count">Get Count</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+</resources>
